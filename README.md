@@ -364,8 +364,7 @@ npm run build
 - Add sorting by name and population
 - Add pagination or infinite scrolling
 - Add favorites/bookmarks
-- Improve accessibility (ARIA labels and keyboard navigation)
-- Add unit and integration tests
+- Improve accessibility
 
 ---
 
